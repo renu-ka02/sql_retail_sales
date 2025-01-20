@@ -1,1 +1,1 @@
-Retai Sales Analysis
+RETAIL SALES ANALYSIS
